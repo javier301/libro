@@ -1,0 +1,36 @@
+[33mcommit 88be1531e6c87889f5e32f7f2e837b84ac45e49b[m
+Author: javier301 <javier.vela.301@gmail.com>
+Date:   Wed Apr 3 10:15:46 2019 +0200
+
+    añadido capitulo 2
+
+[33mcommit 53b590d5ad73b9007257a9304f7f1c033d17acda[m
+Author: javier301 <javier.vela.301@gmail.com>
+Date:   Wed Apr 3 10:05:09 2019 +0200
+
+    añadido capitulo 1
+
+[33mcommit a6d8284b9dc8abd76ff4b8c53fc24cfb7e0b0060[m
+Author: javier301 <javier.vela.301@gmail.com>
+Date:   Wed Apr 3 09:45:48 2019 +0200
+
+    Añadido capitulo 3 sobre gestion de ramas al indice
+
+[33mcommit 342dec2cc88dbef7152806e72c99c66744742916[m
+Merge: 6fa8050 fbe5e0c
+Author: javier301 <javier.vela.301@gmail.com>
+Date:   Wed Apr 3 09:38:04 2019 +0200
+
+    Merge branch 'master' of https://github.com/javier301/libro
+
+[33mcommit fbe5e0c5f215a0d7c4bc3a6e4d131c9ae612db7f[m
+Author: javier301 <49226205+javier301@users.noreply.github.com>
+Date:   Wed Apr 3 09:35:47 2019 +0200
+
+    Initial commit
+
+[33mcommit 6fa8050c23fc7981880cf140915202393f83440a[m
+Author: javier301 <javier.vela.301@gmail.com>
+Date:   Wed Apr 3 09:27:04 2019 +0200
+
+    Añadido indice del libro.
